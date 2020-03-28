@@ -1,24 +1,65 @@
-# UI Clone Nubank
 
-Aplicação feita para melhor conhecimento com animações no [React Native](https://facebook.github.io/react-native/) utilizando como base o [video da RocketSeat](https://youtu.be/DDm0M_rZLJo). 
+<h1  align="center">
+<img  alt="Nubank"  title="#Nubank"  src=".github/logo.png"  width="250px" />
+</h1>
 
->Preview
+<p  align="center">
+	<img  alt="App"  src=".github/nubankbanner.png"  width="100%">
+</p>
+  
+<h4  align="center">
+	🌟 Nubank App
+</h4>
 
-![animated ](https://github.com/Luuck4s/UI-Clone-Nubank/blob/master/assets/video-demonstracao.gif?raw=true)
+  
+<p  align="center">
+<a  href="#telescope-projeto">🔭 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp
+<a  href="#computer-tecnologias"> 💻 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a  href="#-preview">💜 Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a  href="#-getting-started">🤠 Getting Started </a>
+</p>
 
+  
 
-# Instruções para utilização  :hammer:
-	
-## Clonar o repositório :octocat:
-
- Você precisa clonar o repositório e pode fazer isso digitando em seu terminal `$ git clone https://github.com/Luuck4s/UI-Clone-Nubank.git`.
+## :telescope: Projeto
  
-Execute `yarn install` ou `npm install`.
+ Este projeto foi desenvolvido para melhor conhecimento e aplicação das animações utilizando [React Native](https://facebook.github.io/react-native/), a referencia para desenvolver o projeto foi o  [video da RocketSeat](https://youtu.be/DDm0M_rZLJo).
 
-Após as dependências terminarem de baixar execute `yarn start` ou `npm start` e o expo já estará funcionando para você ler o Qr Code e utilizar a aplicação.
+  
+  
+## :computer: Tecnologias
 
-## Tecnologias Utilizadas :mag:
-
+  
+**:iphone: Mobile**
+ 
 - [React Native;](https://facebook.github.io/react-native/)
+
 - [Expo;](https://expo.io/)
+
 - [Styled Components](https://styled-components.com/)
+  
+
+## 💜 Preview
+ 
+<p  align="center">
+<img  alt="Gif aplicativo"  src=".github/demonstracao.gif"  width="50%">
+</p>
+ 
+
+## 🤠 Getting Started
+
+Você precisa clonar o repositório e pode fazer isso digitando em seu terminal `$ git clone https://github.com/Luuck4s/UI-Clone-Nubank.git`.
+ 
+
+### :iphone: Mobile
+  
+  
+Entre na pasta `$ cd UI-Clone-Nubank/` e execute `$ yarn install` ou `$ npm install`.
+
+Após as dependências terminarem de baixar execute `$ yarn start` ou `$ npm start` e o expo já estará funcionando para você ler o Qr Code e utilizar a aplicação.
+
+--- 
+
+<h5 align="center"> 🚀 Nubank  by Luuck4s 💜 </h5>
+
+---
